@@ -52,6 +52,21 @@
 		6409A1CF1EB6005800C6DA1E /* FMDatabasePool.m in Sources */ = {isa = PBXBuildFile; fileRef = 6409A1A51EB6005800C6DA1E /* FMDatabasePool.m */; };
 		6409A1D01EB6005800C6DA1E /* FMDatabaseQueue.m in Sources */ = {isa = PBXBuildFile; fileRef = 6409A1A71EB6005800C6DA1E /* FMDatabaseQueue.m */; };
 		6409A1D11EB6005800C6DA1E /* FMResultSet.m in Sources */ = {isa = PBXBuildFile; fileRef = 6409A1AA1EB6005800C6DA1E /* FMResultSet.m */; };
+		6409A1F21EB6032B00C6DA1E /* CustomCustomerReportFormsCollectionCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 6409A1D31EB6032B00C6DA1E /* CustomCustomerReportFormsCollectionCell.m */; };
+		6409A1F31EB6032B00C6DA1E /* CustomFirstVCTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 6409A1D51EB6032B00C6DA1E /* CustomFirstVCTableViewCell.m */; };
+		6409A1F41EB6032B00C6DA1E /* CustomSegmentControlCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 6409A1D71EB6032B00C6DA1E /* CustomSegmentControlCell.m */; };
+		6409A1F51EB6032B00C6DA1E /* CustomSliderCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 6409A1D91EB6032B00C6DA1E /* CustomSliderCell.m */; };
+		6409A1F61EB6032B00C6DA1E /* CustomSwitchCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 6409A1DB1EB6032B00C6DA1E /* CustomSwitchCell.m */; };
+		6409A1F71EB6032B00C6DA1E /* CustomChartTypeCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 6409A1DD1EB6032B00C6DA1E /* CustomChartTypeCell.m */; };
+		6409A1F81EB6032B00C6DA1E /* CustomChartGalleryCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 6409A1DF1EB6032B00C6DA1E /* CustomChartGalleryCell.m */; };
+		6409A1F91EB6032B00C6DA1E /* CustomDataSourceInputCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 6409A1E11EB6032B00C6DA1E /* CustomDataSourceInputCell.m */; };
+		6409A1FA1EB6032B00C6DA1E /* CustomReturnVisitPlanDetailsCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 6409A1E31EB6032B00C6DA1E /* CustomReturnVisitPlanDetailsCell.m */; };
+		6409A1FB1EB6032B00C6DA1E /* SelectionMenuView.m in Sources */ = {isa = PBXBuildFile; fileRef = 6409A1E61EB6032B00C6DA1E /* SelectionMenuView.m */; };
+		6409A1FC1EB6032B00C6DA1E /* SelectionMenuViewTwo.m in Sources */ = {isa = PBXBuildFile; fileRef = 6409A1E81EB6032B00C6DA1E /* SelectionMenuViewTwo.m */; };
+		6409A1FD1EB6032B00C6DA1E /* CustomTextField.m in Sources */ = {isa = PBXBuildFile; fileRef = 6409A1EA1EB6032B00C6DA1E /* CustomTextField.m */; };
+		6409A1FE1EB6032B00C6DA1E /* CustomButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 6409A1EC1EB6032B00C6DA1E /* CustomButton.m */; };
+		6409A1FF1EB6032B00C6DA1E /* HYPageView.m in Sources */ = {isa = PBXBuildFile; fileRef = 6409A1EE1EB6032B00C6DA1E /* HYPageView.m */; };
+		6409A2001EB6032B00C6DA1E /* ZYNavigationItemFilterView.m in Sources */ = {isa = PBXBuildFile; fileRef = 6409A1F01EB6032B00C6DA1E /* ZYNavigationItemFilterView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -157,6 +172,36 @@
 		6409A1A81EB6005800C6DA1E /* FMDB.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FMDB.h; sourceTree = "<group>"; };
 		6409A1A91EB6005800C6DA1E /* FMResultSet.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FMResultSet.h; sourceTree = "<group>"; };
 		6409A1AA1EB6005800C6DA1E /* FMResultSet.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FMResultSet.m; sourceTree = "<group>"; };
+		6409A1D21EB6032B00C6DA1E /* CustomCustomerReportFormsCollectionCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomCustomerReportFormsCollectionCell.h; sourceTree = "<group>"; };
+		6409A1D31EB6032B00C6DA1E /* CustomCustomerReportFormsCollectionCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomCustomerReportFormsCollectionCell.m; sourceTree = "<group>"; };
+		6409A1D41EB6032B00C6DA1E /* CustomFirstVCTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomFirstVCTableViewCell.h; sourceTree = "<group>"; };
+		6409A1D51EB6032B00C6DA1E /* CustomFirstVCTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomFirstVCTableViewCell.m; sourceTree = "<group>"; };
+		6409A1D61EB6032B00C6DA1E /* CustomSegmentControlCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomSegmentControlCell.h; sourceTree = "<group>"; };
+		6409A1D71EB6032B00C6DA1E /* CustomSegmentControlCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomSegmentControlCell.m; sourceTree = "<group>"; };
+		6409A1D81EB6032B00C6DA1E /* CustomSliderCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomSliderCell.h; sourceTree = "<group>"; };
+		6409A1D91EB6032B00C6DA1E /* CustomSliderCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomSliderCell.m; sourceTree = "<group>"; };
+		6409A1DA1EB6032B00C6DA1E /* CustomSwitchCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomSwitchCell.h; sourceTree = "<group>"; };
+		6409A1DB1EB6032B00C6DA1E /* CustomSwitchCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomSwitchCell.m; sourceTree = "<group>"; };
+		6409A1DC1EB6032B00C6DA1E /* CustomChartTypeCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomChartTypeCell.h; sourceTree = "<group>"; };
+		6409A1DD1EB6032B00C6DA1E /* CustomChartTypeCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomChartTypeCell.m; sourceTree = "<group>"; };
+		6409A1DE1EB6032B00C6DA1E /* CustomChartGalleryCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomChartGalleryCell.h; sourceTree = "<group>"; };
+		6409A1DF1EB6032B00C6DA1E /* CustomChartGalleryCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomChartGalleryCell.m; sourceTree = "<group>"; };
+		6409A1E01EB6032B00C6DA1E /* CustomDataSourceInputCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomDataSourceInputCell.h; sourceTree = "<group>"; };
+		6409A1E11EB6032B00C6DA1E /* CustomDataSourceInputCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomDataSourceInputCell.m; sourceTree = "<group>"; };
+		6409A1E21EB6032B00C6DA1E /* CustomReturnVisitPlanDetailsCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomReturnVisitPlanDetailsCell.h; sourceTree = "<group>"; };
+		6409A1E31EB6032B00C6DA1E /* CustomReturnVisitPlanDetailsCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomReturnVisitPlanDetailsCell.m; sourceTree = "<group>"; };
+		6409A1E51EB6032B00C6DA1E /* SelectionMenuView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SelectionMenuView.h; sourceTree = "<group>"; };
+		6409A1E61EB6032B00C6DA1E /* SelectionMenuView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SelectionMenuView.m; sourceTree = "<group>"; };
+		6409A1E71EB6032B00C6DA1E /* SelectionMenuViewTwo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SelectionMenuViewTwo.h; sourceTree = "<group>"; };
+		6409A1E81EB6032B00C6DA1E /* SelectionMenuViewTwo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SelectionMenuViewTwo.m; sourceTree = "<group>"; };
+		6409A1E91EB6032B00C6DA1E /* CustomTextField.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomTextField.h; sourceTree = "<group>"; };
+		6409A1EA1EB6032B00C6DA1E /* CustomTextField.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomTextField.m; sourceTree = "<group>"; };
+		6409A1EB1EB6032B00C6DA1E /* CustomButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomButton.h; sourceTree = "<group>"; };
+		6409A1EC1EB6032B00C6DA1E /* CustomButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomButton.m; sourceTree = "<group>"; };
+		6409A1ED1EB6032B00C6DA1E /* HYPageView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HYPageView.h; sourceTree = "<group>"; };
+		6409A1EE1EB6032B00C6DA1E /* HYPageView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HYPageView.m; sourceTree = "<group>"; };
+		6409A1EF1EB6032B00C6DA1E /* ZYNavigationItemFilterView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZYNavigationItemFilterView.h; sourceTree = "<group>"; };
+		6409A1F01EB6032B00C6DA1E /* ZYNavigationItemFilterView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZYNavigationItemFilterView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -211,6 +256,7 @@
 				6409A1311EB5FF5400C6DA1E /* AppDelegate.m */,
 				6409A1331EB5FF5400C6DA1E /* ViewController.h */,
 				6409A1341EB5FF5400C6DA1E /* ViewController.m */,
+				6409A1F11EB6032B00C6DA1E /* View(自定义视图) */,
 				6409A1601EB6001E00C6DA1E /* ThirdLib */,
 				6409A1361EB5FF5400C6DA1E /* Main.storyboard */,
 				6409A1391EB5FF5400C6DA1E /* Assets.xcassets */,
@@ -384,6 +430,52 @@
 			path = "../../../../../Downloads/图表接近完成版副本 2 2 2/图表试炼";
 			sourceTree = "<group>";
 		};
+		6409A1E41EB6032B00C6DA1E /* CustomCells */ = {
+			isa = PBXGroup;
+			children = (
+				6409A1D21EB6032B00C6DA1E /* CustomCustomerReportFormsCollectionCell.h */,
+				6409A1D31EB6032B00C6DA1E /* CustomCustomerReportFormsCollectionCell.m */,
+				6409A1D41EB6032B00C6DA1E /* CustomFirstVCTableViewCell.h */,
+				6409A1D51EB6032B00C6DA1E /* CustomFirstVCTableViewCell.m */,
+				6409A1D61EB6032B00C6DA1E /* CustomSegmentControlCell.h */,
+				6409A1D71EB6032B00C6DA1E /* CustomSegmentControlCell.m */,
+				6409A1D81EB6032B00C6DA1E /* CustomSliderCell.h */,
+				6409A1D91EB6032B00C6DA1E /* CustomSliderCell.m */,
+				6409A1DA1EB6032B00C6DA1E /* CustomSwitchCell.h */,
+				6409A1DB1EB6032B00C6DA1E /* CustomSwitchCell.m */,
+				6409A1DC1EB6032B00C6DA1E /* CustomChartTypeCell.h */,
+				6409A1DD1EB6032B00C6DA1E /* CustomChartTypeCell.m */,
+				6409A1DE1EB6032B00C6DA1E /* CustomChartGalleryCell.h */,
+				6409A1DF1EB6032B00C6DA1E /* CustomChartGalleryCell.m */,
+				6409A1E01EB6032B00C6DA1E /* CustomDataSourceInputCell.h */,
+				6409A1E11EB6032B00C6DA1E /* CustomDataSourceInputCell.m */,
+				6409A1E21EB6032B00C6DA1E /* CustomReturnVisitPlanDetailsCell.h */,
+				6409A1E31EB6032B00C6DA1E /* CustomReturnVisitPlanDetailsCell.m */,
+			);
+			name = CustomCells;
+			sourceTree = "<group>";
+		};
+		6409A1F11EB6032B00C6DA1E /* View(自定义视图) */ = {
+			isa = PBXGroup;
+			children = (
+				6409A1E41EB6032B00C6DA1E /* CustomCells */,
+				6409A1E51EB6032B00C6DA1E /* SelectionMenuView.h */,
+				6409A1E61EB6032B00C6DA1E /* SelectionMenuView.m */,
+				6409A1E71EB6032B00C6DA1E /* SelectionMenuViewTwo.h */,
+				6409A1E81EB6032B00C6DA1E /* SelectionMenuViewTwo.m */,
+				6409A1E91EB6032B00C6DA1E /* CustomTextField.h */,
+				6409A1EA1EB6032B00C6DA1E /* CustomTextField.m */,
+				6409A1EB1EB6032B00C6DA1E /* CustomButton.h */,
+				6409A1EC1EB6032B00C6DA1E /* CustomButton.m */,
+				6409A1ED1EB6032B00C6DA1E /* HYPageView.h */,
+				6409A1EE1EB6032B00C6DA1E /* HYPageView.m */,
+				6409A1EF1EB6032B00C6DA1E /* ZYNavigationItemFilterView.h */,
+				6409A1F01EB6032B00C6DA1E /* ZYNavigationItemFilterView.m */,
+			);
+			name = "View(自定义视图)";
+			path = "../../../../../Downloads/图表接近完成版副本 2 2 2/图表试炼";
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -533,32 +625,47 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6409A1F81EB6032B00C6DA1E /* CustomChartGalleryCell.m in Sources */,
 				6409A1C81EB6005800C6DA1E /* NSObject+YYModel.m in Sources */,
 				6409A1B11EB6005800C6DA1E /* UIView+Frame.m in Sources */,
 				6409A1AE1EB6005800C6DA1E /* STConst.m in Sources */,
 				6409A1C41EB6005800C6DA1E /* NSArray+MASAdditions.m in Sources */,
+				6409A1FB1EB6032B00C6DA1E /* SelectionMenuView.m in Sources */,
+				6409A1F41EB6032B00C6DA1E /* CustomSegmentControlCell.m in Sources */,
+				6409A1F21EB6032B00C6DA1E /* CustomCustomerReportFormsCollectionCell.m in Sources */,
 				6409A1CB1EB6005800C6DA1E /* Tool_FMDBGetDatabase.m in Sources */,
 				6409A1AD1EB6005800C6DA1E /* STToolbar.m in Sources */,
 				6409A1AF1EB6005800C6DA1E /* STUI.m in Sources */,
+				6409A1F71EB6032B00C6DA1E /* CustomChartTypeCell.m in Sources */,
 				6409A1C61EB6005800C6DA1E /* View+MASAdditions.m in Sources */,
 				6409A1CD1EB6005800C6DA1E /* FMDatabase.m in Sources */,
 				6409A1C11EB6005800C6DA1E /* MASLayoutConstraint.m in Sources */,
 				6409A1C91EB6005800C6DA1E /* YYClassInfo.m in Sources */,
+				6409A1FE1EB6032B00C6DA1E /* CustomButton.m in Sources */,
+				6409A1F31EB6032B00C6DA1E /* CustomFirstVCTableViewCell.m in Sources */,
 				6409A1BF1EB6005800C6DA1E /* MASConstraint.m in Sources */,
 				6409A1CF1EB6005800C6DA1E /* FMDatabasePool.m in Sources */,
 				6409A1C51EB6005800C6DA1E /* NSLayoutConstraint+MASDebugAdditions.m in Sources */,
 				6409A1BE1EB6005800C6DA1E /* MASCompositeConstraint.m in Sources */,
 				6409A1D11EB6005800C6DA1E /* FMResultSet.m in Sources */,
+				6409A1FD1EB6032B00C6DA1E /* CustomTextField.m in Sources */,
 				6409A1351EB5FF5400C6DA1E /* ViewController.m in Sources */,
 				6409A1CC1EB6005800C6DA1E /* Tool_FMDBModel.m in Sources */,
 				6409A1D01EB6005800C6DA1E /* FMDatabaseQueue.m in Sources */,
 				6409A1321EB5FF5400C6DA1E /* AppDelegate.m in Sources */,
 				6409A12F1EB5FF5400C6DA1E /* main.m in Sources */,
 				6409A1C01EB6005800C6DA1E /* MASConstraintMaker.m in Sources */,
+				6409A2001EB6032B00C6DA1E /* ZYNavigationItemFilterView.m in Sources */,
 				6409A1C71EB6005800C6DA1E /* ViewController+MASAdditions.m in Sources */,
+				6409A1FC1EB6032B00C6DA1E /* SelectionMenuViewTwo.m in Sources */,
+				6409A1FA1EB6032B00C6DA1E /* CustomReturnVisitPlanDetailsCell.m in Sources */,
+				6409A1F61EB6032B00C6DA1E /* CustomSwitchCell.m in Sources */,
 				6409A1C31EB6005800C6DA1E /* MASViewConstraint.m in Sources */,
 				6409A1B01EB6005800C6DA1E /* UIView+ST.m in Sources */,
+				6409A1F91EB6032B00C6DA1E /* CustomDataSourceInputCell.m in Sources */,
 				6409A1C21EB6005800C6DA1E /* MASViewAttribute.m in Sources */,
+				6409A1FF1EB6032B00C6DA1E /* HYPageView.m in Sources */,
+				6409A1F51EB6032B00C6DA1E /* CustomSliderCell.m in Sources */,
 				6409A1CE1EB6005800C6DA1E /* FMDatabaseAdditions.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -797,6 +904,7 @@
 				6409A1591EB5FF5400C6DA1E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6409A15A1EB5FF5400C6DA1E /* Build configuration list for PBXNativeTarget "MineInfographicTests" */ = {
 			isa = XCConfigurationList;
@@ -805,6 +913,7 @@
 				6409A15C1EB5FF5400C6DA1E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6409A15D1EB5FF5400C6DA1E /* Build configuration list for PBXNativeTarget "MineInfographicUITests" */ = {
 			isa = XCConfigurationList;
@@ -813,6 +922,7 @@
 				6409A15F1EB5FF5400C6DA1E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
